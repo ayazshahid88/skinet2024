@@ -1,0 +1,32 @@
+dotnet watch --no-hot-reload (command to run the project)
+
+I am using version 7.0.14 of Microsoft.EntityFramworkCore.Sqlite becasue my .net framework version is 7.0.14
+
+I am using version 7.0.14 of Microsoft.EntityFramworkCore.Design becasue my .net framework version is 7.0.14
+
+I am using version 7.0.14 of dotnet-ef becasue my .net framework version is 7.0.14
+https://www.nuget.org/packages/dotnet-ef/7.0.14
+
+Learn more about repository and unit of work, specification pattern
+
+
+start from video 26 - Configuring the migrations (2023/12/27)
+
+continue video 26 - Configuring the migrations from time 5:22 (2023/12/28)
+
+Section 3 is finished
+
+            var typeId = 1;
+
+            var products = _context.Products
+                .Where(x => x.ProductTypeId == typeId).Include(x => x.ProductType).ToListAsync();
+
+start from section 4 video 33 from 4:56
+
+give kick to vs code : developer: reload window
+
+
+
+By 2:30 finish section 4
+
+Started from video 46 at 2:43 am
