@@ -1,5 +1,10 @@
 dotnet watch --no-hot-reload (command to run the project)
 
+Use the following key combinations to format code in Visual Studio Code (VSCode).
+Shift + Alt + F : Windows Users.
+Shift + Option + F : macOS Users.
+Ctrl + Shift + I : Linux Users.
+
 I am using version 7.0.14 of Microsoft.EntityFramworkCore.Sqlite becasue my .net framework version is 7.0.14
 
 I am using version 7.0.14 of Microsoft.EntityFramworkCore.Design becasue my .net framework version is 7.0.14
@@ -29,4 +34,23 @@ give kick to vs code : developer: reload window
 
 By 2:30 finish section 4
 
-Started from video 46 at 2:43 am
+Section 4 is finished (Jan 28 2:57 am)
+
+Start frm section 5 at 12:00 pm
+
+Video 56 started at 15:35 pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
